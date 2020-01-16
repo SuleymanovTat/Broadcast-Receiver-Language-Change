@@ -1,1 +1,1 @@
-# Broadcast-Receiver-izmeneniye-yazyka-34-50BroadcastReceiverLanguageChange
+# Broadcast-Receiver Language Change
